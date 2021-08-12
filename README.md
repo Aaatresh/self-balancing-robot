@@ -44,7 +44,7 @@ Construction and working:
 * Install the ard_bt_controller mobile application onto an android device using its apk file.
 
 ## Author
-* Anirudh Ashok Aatresh ([anirudhashokaatresh@gmail.com](mailto:anirudhashokaatresh@gmail.com))
+* Anirudh Aatresh ([anirudhashokaatresh@gmail.com](mailto:anirudhashokaatresh@gmail.com))
 
 ## Version History
 * 1.0
