@@ -34,7 +34,7 @@ This repository outlines the implementation of a self balancing robot that uses 
 ```
 
 ### Circuit diagram
-<img src="./circuit_diagram/self-balancing-robot-ckt.png" width="1000"/>
+<img src="./circuit_diagram/self-balancing-robot-ckt.png" width="1100"/>
 
 ### Controlling the robot and executing the program
 
@@ -43,7 +43,7 @@ Construction and working:
 * Compile and load the one of the C codes onto an arduino Uno development board.
 * Install the ard_bt_controller mobile application onto an android device using its apk file.
 
-## Authors
+## Author
 * Anirudh Ashok Aatresh ([anirudhashokaatresh@gmail.com](mailto:anirudhashokaatresh@gmail.com))
 
 ## Version History
