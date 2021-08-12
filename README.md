@@ -26,7 +26,7 @@ This repository outlines the implementation of a self balancing robot that uses 
 
 ### Dependencies
 * Arduino IDE = 1.8
-* Arduino Uno development board
+* Arduino Uno R3 development board
 
 ### Installing
 ```
