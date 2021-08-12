@@ -1,17 +1,40 @@
 # Self Balancing Robot
 
+<table>
+  <tr>
+    <td>  <img src="./images/side_view.jpg" width="300"/> </td>
+    <td>  <img src="./images/front_view.jpg" width="300"/> </td>
+  </tr>
+</table>
+Fig 1. Self balancing robot construction and working -- side and front views.
+
+
 ## Description
 This repository outlines the implementation of a self balancing robot that uses a kalman filter for angle estimation and an android mobile application for robust control.
+
+<figure>
+    <img src="./images/tilt_sbr.png" width="300"/>
+    <figcaption>Fig 2. Balancing action of the self balancing robot</figcaption>
+</figure>
+<br><br>
+<figure>
+    <img src="./images/app_controller.jpeg" width="300"/>
+    <figcaption>Fig 3. Android mobile application control interface.</figcaption>
+</figure>
 
 ## Getting Started
 
 ### Dependencies
 * Arduino IDE = 1.8
+* Arduino Uno development board
 
 ### Installing
 ```
   git clone https://github.com/Aaatresh/self-balancing-robot
 ```
+
+### Circuit diagram
+<img src="./circuit_diagram/self-balancing-robot-ckt.png" width="800"/>
 
 ### Controlling the robot and executing the program
 
