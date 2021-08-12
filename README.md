@@ -34,7 +34,7 @@ This repository outlines the implementation of a self balancing robot that uses 
 ```
 
 ### Circuit diagram
-<img src="./circuit_diagram/self-balancing-robot-ckt.png" width="800"/>
+<img src="./circuit_diagram/self-balancing-robot-ckt.png" width="1000"/>
 
 ### Controlling the robot and executing the program
 
