@@ -40,18 +40,16 @@ This repository outlines the implementation of a self balancing robot that uses 
 
 Construction and working:
 * Construct the robot chassis and create a PCB according to the given circuit diagram.
-* Compile and load the one of the C codes onto an arduino Uno development board.
-* Install the ard_bt_controller mobile application onto an android device using its apk file.
+* Compile and load the one of the ```.ino``` files onto an arduino Uno board:
+  * ```./code/self_balancing_robot_328P/``` contains code that balances the robot with a single PID controller.
+  * ```./code/self_balancing_robot_angle_pos_pid/``` contains code that balances the robot and tracks position set points using two PID controllers.
+* Install the ard_bt_controller mobile application onto an android device using its apk file, which can be found in the path: ```./apks/ard_bt_controller.apk```.
 
 ## Author
 * Anirudh Aatresh ([anirudhashokaatresh@gmail.com](mailto:anirudhashokaatresh@gmail.com))
-
-## Version History
-* 1.0
-    * Initial Release
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Acknowledgments
-* I would like to thank automaticaddison.com for assistance with the kalman filter implementation.
+I would like to thank automaticaddison.com for assistance with the kalman filter implementation.
